@@ -11,7 +11,7 @@
   - [Microsoft Store \[Recommended\]](#microsoft-store-recommended)
   - [Other install methods](#other-install-methods)
     - [Via GitHub](#via-github)
-    - [Via Windows Package Manager CLI (aka winget)](#via-windows-package-manager-cli-aka-winget)
+    - [Via Windows Package Manager CLI (aka winget)](#via-windows-package-manager-cli-aka-winget)..
     - [Via Chocolatey (unofficial)](#via-chocolatey-unofficial)
     - [Via Scoop (unofficial)](#via-scoop-unofficial)
 - [Installing Windows Terminal Canary](#installing-windows-terminal-canary)
